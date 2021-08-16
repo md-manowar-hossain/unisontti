@@ -1,0 +1,37 @@
+.green{
+    color:#2BB573;
+}
+.greenBack{
+    background:#2BB573;
+}
+.gradient{
+    background:linear-gradient(90deg,#fff,#fff,#2BB573,#2BB573,#2BB573)
+}
+@media(max-width:800px){
+.gradient{
+    background:linear-gradient(90deg,#fff,#fff,#fff,#fff,#2BB573)
+
+}
+}
+body{
+    background:#26252A;
+    color:#EEEEEE;
+}
+.paper{
+    background:#212121;
+    box-shadow: 0px 2px 25px rgba(0,0,0,0.76)
+}
+.black{
+    color:#26252A;
+}
+.background{
+    background:#26252A;
+    color:#EEEEEE;
+}
+.contact_paper strong{
+    color: #2bb573;
+  }
+
+.red{
+    color:rgb(255, 53, 53)
+}  
